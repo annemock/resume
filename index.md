@@ -5,7 +5,7 @@ layout: resume
 
 # Anne Mock
 
-_&middot; annegoza@gmail.com &middot; New Orleans, LA &middot; 615.618.2848_
+_annegoza@gmail.com &middot; New Orleans, LA &middot; 615.618.2848_
 
 <br/>
 
@@ -39,13 +39,9 @@ Early Childhood/Elementary Education: Teaching position
 
 > **Special Needs Pre-K Teacher, Inclusion classroom _(08/2008, 07/2011)_** - Developed Individualized Education Programs for students; developed and modified materials to meet the individual needs of each child.
 
-> Sat on a committee to choose and implement the new STAR Curriculum (Strategies for Teaching based on Autism Research) for the Sumner County preschool program.
-
 > Special Education Team Leader for Station Camp Elementary where I developed agendas for and held bi-weekly meetings. I aided administration in the management of 10 special education teachers and 15 special education teacher assistants.
 
-> Co-chaired one of four components of the School-wide Improvement Plan for Station Camp Elementary.
-
-> Held weekly preschool team meetings with classroom teaching assistants, def education teacher, and speech therapist; and collaborated with teaching assistants, parents, therapists, and county specialists.
+> Sat on a committee to choose and implement the new STAR Curriculum (Strategies for Teaching based on Autism Research) for the Sumner County preschool program. Co-chaired one of four components of the School-wide Improvement Plan for Station Camp Elementary.  Held weekly preschool team meetings with classroom teaching assistants, def education teacher, and speech therapist; and collaborated with teaching assistants, parents, therapists, and county specialists.
 
 > Provided Augmentative and Alternative Communication (AAC) as needed throughout the classroom (experience ranging from a BIGmac switch to a Dynavox MightyMo).
 
