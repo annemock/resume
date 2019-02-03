@@ -5,7 +5,7 @@ layout: resume
 
 # Anne Mock
 
-_[github.com/annemock](https://github.com/annemock) &middot; annegoza@gmail.com &middot; New Orleans, LA &middot; 615.618.2848_
+_&middot; annegoza@gmail.com &middot; New Orleans, LA &middot; 615.618.2848_
 
 <br/>
 
@@ -15,15 +15,15 @@ Early Childhood/Elementary Education: Teaching position
 
 ## Experience
 
-### [Stuart Hall School for Boys](http://www.stuarthall.org/)
+##### [Stuart Hall School for Boys](http://www.stuarthall.org/)
 
 > **Substitute Teacher _(1/2017 - 5/2017)_, _(8/2018 - Present)_** - Lead and Co-teacher in Nursery-3rd grade and Lower School Religion.
 
-### [St. George's Episcopal School](http://www.stgeorgesepiscopal.com/)
+##### [St. George's Episcopal School](http://www.stgeorgesepiscopal.com/)
 
 > **Substitute Teacher _(8/2018 - Present)_** - Lead and Co-teacher in 1's class - 3rd grade.
 
-### [St. George's Episcopal School](http://www.stgeorgesepiscopal.com/)
+##### [St. George's Episcopal School](http://www.stgeorgesepiscopal.com/)
 
 > **Early Childhood Support Specialist _(8/2015 - 07/2016)_** - Provided support for teachers regarding students in the form of observations, behavior and academic modification/intervention plans, positive behavior plans, individualized data sheets, assessments, working with administrative teams and outside professionals.
 
