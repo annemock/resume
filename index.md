@@ -1,5 +1,6 @@
 ---
 title: Resume of Anne Mock
+layout: resume
 ---
 
 # Anne Mock
